@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
-var Counter = require('./components/counter');
+var Gallery = require('./components/Gallery.jsx');
 
-ReactDOM.render(<Counter phrase="I like tacos."/>, document.body);
+ReactDOM.render(<Gallery />, document.querySelector('#app'));

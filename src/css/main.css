@@ -1,0 +1,111 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+	
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+li > img {
+	display: block;
+	width: 100%;
+}
+
+.like-delete {
+	padding-top: 10px
+}
+
+.text-box {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+.likes {
+	float: left;
+}
+
+.likes div,
+.likes button {
+	display: inline-block;
+}
+
+button {
+	border: none;
+	margin-left: 3px;
+	border-radius: 50%;
+	outline: none;
+	background-color: #dadada;
+	color: #484846;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+img {
+	margin-top: 20px;
+
+}
+
+body {
+	background-color: #ccf5fc;
+	color: #484846;
+}
+
+input {
+	width: 300px;
+	height: 30px;
+	
+}
+
+.add,
+button,
+.likes > div {
+	height: 30px;
+	width: 50px;
+	font-size: 16px;
+}
+
+.like-delete button {
+	float: right;
+	width: 85px;
+}
+
+.likes button {
+	width: 50px;
+}
+
+
+.likes > div {
+	line-height: 30px;
+	font-weight: bold;
+	margin-left: 0;
+}
+
+.likes >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
