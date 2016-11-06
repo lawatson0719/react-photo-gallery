@@ -42,6 +42,7 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
+<<<<<<< HEAD
 /***/ function(module, exports, __webpack_require__) {
 
 	var React = __webpack_require__(1);
@@ -21982,6 +21983,11 @@
 	  module.exports = EventEmitter;
 	}
 
+=======
+/***/ function(module, exports) {
+
+	
+>>>>>>> 619dfa689e4088015dcd5035d407f4df9a7aa48e
 
 /***/ }
 /******/ ]);
